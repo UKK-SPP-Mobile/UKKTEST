@@ -35,7 +35,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/poppinsbold"
-                android:text="Data Siswa"
+                android:text="Data SPP"
                 android:textColor="#454345"
                 android:textSize="22dp"
                 tools:ignore="MissingConstraints"
@@ -43,30 +43,10 @@
                 tools:layout_editor_absoluteY="22dp" />
 
             <ImageView
-                android:id="@+id/imageView3"
-                android:layout_width="157dp"
-                android:layout_height="35dp"
-                android:layout_marginBottom="568dp"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.093"
-                app:layout_constraintStart_toStartOf="parent"
-                app:srcCompat="@drawable/rectangle3" />
-
-            <ImageView
-                android:id="@+id/imageView2"
-                android:layout_width="25dp"
-                android:layout_height="25dp"
-                app:srcCompat="@drawable/searchh"
-                tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="140dp"
-                tools:layout_editor_absoluteY="93dp" />
-
-            <ImageView
                 android:id="@+id/imageView5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="472dp"
+                android:layout_marginBottom="508dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.487"
@@ -78,30 +58,30 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/poppinssemibold"
-                android:text="Septian Kurnia"
+                android:text="Maret 2021"
                 android:textColor="#454345"
                 android:textSize="18dp"
                 tools:ignore="MissingConstraints"
                 tools:layout_editor_absoluteX="35dp"
-                tools:layout_editor_absoluteY="168dp" />
+                tools:layout_editor_absoluteY="120dp" />
 
             <TextView
                 android:id="@+id/textView11"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:fontFamily="@font/poppinssemibold"
-                android:text="XII RPL 5"
-                android:textColor="#454345"
+                android:fontFamily="@font/poppinsmedium"
+                android:text="Rp500.000"
+                android:textColor="#A3454345"
                 android:textSize="18dp"
                 tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="255dp"
-                tools:layout_editor_absoluteY="168dp" />
+                tools:layout_editor_absoluteX="35dp"
+                tools:layout_editor_absoluteY="149dp" />
 
             <ImageView
                 android:id="@+id/imageView6"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="376dp"
+                android:layout_marginBottom="412dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.487"
@@ -113,30 +93,30 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/poppinssemibold"
-                android:text="Aminah Putri"
+                android:text="April 2021"
                 android:textColor="#454345"
                 android:textSize="18dp"
                 tools:ignore="MissingConstraints"
                 tools:layout_editor_absoluteX="35dp"
-                tools:layout_editor_absoluteY="261dp" />
+                tools:layout_editor_absoluteY="216dp" />
 
             <TextView
                 android:id="@+id/textView12"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:fontFamily="@font/poppinssemibold"
-                android:text="XII RPL 9"
-                android:textColor="#454345"
+                android:fontFamily="@font/poppinsmedium"
+                android:text="Rp500.000"
+                android:textColor="#A3454345"
                 android:textSize="18dp"
                 tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="255dp"
-                tools:layout_editor_absoluteY="261dp" />
+                tools:layout_editor_absoluteX="35dp"
+                tools:layout_editor_absoluteY="241dp" />
 
             <ImageView
                 android:id="@+id/imageView7"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="276dp"
+                android:layout_marginBottom="320dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.487"
@@ -148,105 +128,35 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/poppinssemibold"
-                android:text="Galilea Prima"
+                android:text="Mei 2021"
                 android:textColor="#454345"
                 android:textSize="18dp"
                 tools:ignore="MissingConstraints"
                 tools:layout_editor_absoluteX="35dp"
-                tools:layout_editor_absoluteY="360dp" />
+                tools:layout_editor_absoluteY="307dp" />
 
             <TextView
                 android:id="@+id/textView13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:fontFamily="@font/poppinssemibold"
-                android:text="XII TKJ 5"
-                android:textColor="#454345"
-                android:textSize="18dp"
-                tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="254dp"
-                tools:layout_editor_absoluteY="360dp" />
-
-            <ImageView
-                android:id="@+id/imageView8"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="176dp"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.487"
-                app:layout_constraintStart_toStartOf="parent"
-                app:srcCompat="@drawable/rectangle2" />
-
-            <TextView
-                android:id="@+id/textView10"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:fontFamily="@font/poppinssemibold"
-                android:text="Amelia Nur"
-                android:textColor="#454345"
+                android:fontFamily="@font/poppinsmedium"
+                android:text="Rp500.000"
+                android:textColor="#A3454345"
                 android:textSize="18dp"
                 tools:ignore="MissingConstraints"
                 tools:layout_editor_absoluteX="35dp"
-                tools:layout_editor_absoluteY="457dp" />
-
-            <TextView
-                android:id="@+id/textView14"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:fontFamily="@font/poppinssemibold"
-                android:text="XII TKJ 1"
-                android:textColor="#454345"
-                android:textSize="18dp"
-                tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="258dp"
-                tools:layout_editor_absoluteY="457dp" />
+                tools:layout_editor_absoluteY="332dp" />
 
             <ImageView
                 android:id="@+id/imageView10"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="20dp"
+                android:layout_marginBottom="4dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.375"
+                app:layout_constraintHorizontal_bias="0.992"
                 app:layout_constraintStart_toStartOf="parent"
-                app:srcCompat="@drawable/home_2" />
-
-            <TextView
-                android:id="@+id/textView20"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:fontFamily="@font/poppinsmedium"
-                android:text="Home"
-                android:textColor="#454345"
-                android:textSize="15dp"
-                tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="121dp"
-                tools:layout_editor_absoluteY="671dp" />
-
-            <ImageView
-                android:id="@+id/imageView11"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="20dp"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.63"
-                app:layout_constraintStart_toStartOf="parent"
-                app:srcCompat="@drawable/data_1" />
-
-            <TextView
-                android:id="@+id/textView21"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:fontFamily="@font/poppinsmedium"
-                android:text="Data Siswa"
-                android:textColor="#D13939"
-                android:textSize="15dp"
-                tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="188dp"
-                tools:layout_editor_absoluteY="671dp" />
+                app:srcCompat="@drawable/tambah1" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </LinearLayout>

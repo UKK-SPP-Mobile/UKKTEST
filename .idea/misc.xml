@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/data_admin.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/data_kelas.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/data_petugas.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/home_admin.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/home_petugas.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/home_siswa.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/input_kekurangan.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/konfirmasi_pembayaran_admin.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/konfirmasi_pembayaran_petugas.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/ASUS/spp/app/src/main/res/layout/login_petugas.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

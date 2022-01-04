@@ -206,47 +206,12 @@
                 android:id="@+id/imageView10"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="20dp"
+                android:layout_marginBottom="4dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.375"
+                app:layout_constraintHorizontal_bias="0.992"
                 app:layout_constraintStart_toStartOf="parent"
-                app:srcCompat="@drawable/home_2" />
-
-            <TextView
-                android:id="@+id/textView20"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:fontFamily="@font/poppinsmedium"
-                android:text="Home"
-                android:textColor="#454345"
-                android:textSize="15dp"
-                tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="121dp"
-                tools:layout_editor_absoluteY="671dp" />
-
-            <ImageView
-                android:id="@+id/imageView11"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="20dp"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.63"
-                app:layout_constraintStart_toStartOf="parent"
-                app:srcCompat="@drawable/data_1" />
-
-            <TextView
-                android:id="@+id/textView21"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:fontFamily="@font/poppinsmedium"
-                android:text="Data Siswa"
-                android:textColor="#D13939"
-                android:textSize="15dp"
-                tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="188dp"
-                tools:layout_editor_absoluteY="671dp" />
+                app:srcCompat="@drawable/tambah1" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </LinearLayout>
